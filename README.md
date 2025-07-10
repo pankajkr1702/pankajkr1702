@@ -58,17 +58,9 @@
 
 ---
 
-### 🚀 About Me
-
-- 🎓 **B.Tech CSE** at Lovely Professional University (2022–2026)
-- 💻 Focused on **MERN stack**, **Data Structures**, and **Python automation**
-- 🧠 Exploring **Edge AI**, **AI-based robotics**, and **smart systems**
-- 📈 Contributor to open-source and personal utility tools
-
----
 
 ### 🙏 Thank You for Visiting!
 
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-blue?style=for-the-badge" />
-</p>
+"Code is like humor. When you have to explain it, it’s bad."
+
+
