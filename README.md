@@ -60,7 +60,9 @@
 
 
 ### 🙏 Thank You for Visiting!
+<p align="centre">
+  "Code is like humor. When you have to explain it, it’s bad."
+</p>
 
-"Code is like humor. When you have to explain it, it’s bad."
 
 
